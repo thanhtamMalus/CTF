@@ -2,7 +2,11 @@
 ![](img/SSTI1.png)
 ( Just use hint if you can't solve it )
 ## What is 'Server Side Template Injection' ?
+The dev can use Template Engine to build dyamic web more easy -> hello {{user}}
 
+-> big promblem that user can change the content in {{...}} 
+
+-> can be hack 
 ```
 Path to check:
 
