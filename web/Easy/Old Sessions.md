@@ -8,8 +8,10 @@ Khi vào trang web được cung cấp, mình thực hiện thử thao tác đă
 ![alt text](img/image-1.png)
 
 Sau khi vào ta có thể thấy dòng 
-`Hey I found a strange page at /sessions`
+>Hey I found a strange page at /sessions
+
 -> có thể là gợi ý key
+
 Ta chỉnh sửa đường link http://xebec.cylabacademy.net:41692/ thành http://xebec.cylabacademy.net:41692/sessions để vào
 
 ![alt text](img/{F87E11B9-895A-4C49-96EA-D42CC08E5E51}.png)
